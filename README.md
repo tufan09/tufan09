@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tufan09
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning Ntural Language Processing
+- 🌱 I’m currently learning Natural Language Processing and Computer Vision
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
